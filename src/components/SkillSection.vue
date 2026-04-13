@@ -36,50 +36,50 @@ const categories = [
   {
     name: 'Languages',
     skills: [
-      { name: 'Java', icon: '/icons/java.svg' },
-      { name: 'Go', icon: '/icons/go.svg' },
-      { name: 'Python', icon: '/icons/python.svg' },
-      { name: 'JavaScript', icon: '/icons/javascript.svg' },
-      { name: 'C', icon: '/icons/c.svg' },
-      { name: 'Dart', icon: '/icons/dart.svg' },
+      { name: 'Java', icon: '/DanielPaz/icons/java.svg' },
+      { name: 'Go', icon: '/DanielPaz/icons/go.svg' },
+      { name: 'Python', icon: '/DanielPaz/icons/python.svg' },
+      { name: 'JavaScript', icon: '/DanielPaz/icons/javascript.svg' },
+      { name: 'C', icon: '/DanielPaz/icons/c.svg' },
+      { name: 'Dart', icon: '/DanielPaz/icons/dart.svg' },
     ]
   },
   {
     name: 'Web Development',
     skills: [
-      { name: 'Vue', icon: '/icons/vue.svg' },
-      { name: 'Angular', icon: '/icons/angular.svg' },
-      { name: 'HTML', icon: '/icons/html.svg' },
-      { name: 'CSS', icon: '/icons/css.svg' },
+      { name: 'Vue', icon: '/DanielPaz/icons/vue.svg' },
+      { name: 'Angular', icon: '/DanielPaz/icons/angular.svg' },
+      { name: 'HTML', icon: '/DanielPaz/icons/html.svg' },
+      { name: 'CSS', icon: '/DanielPaz/icons/css.svg' },
     ]
   },
   {
     name: 'Mobile Development',
     skills: [
-      { name: 'Swift (iOS)', icon: '/icons/swift.svg' },
-      { name: 'Kotlin (Android)', icon: '/icons/kotlin.svg' },
-      {name: 'Flutter', icon: '/icons/flutter.svg' },
+      { name: 'Swift (iOS)', icon: '/DanielPaz/icons/swift.svg' },
+      { name: 'Kotlin (Android)', icon: '/DanielPaz/icons/kotlin.svg' },
+      {name: 'Flutter', icon: '/DanielPaz/icons/flutter.svg' },
     ]
   },
   {
     name: 'Backend & Frameworks',
     skills: [
-      { name: 'Spring', icon: '/icons/spring.svg' },
-      { name: 'Hibernate', icon: '/icons/hibernate.svg' },
+      { name: 'Spring', icon: '/DanielPaz/icons/spring.svg' },
+      { name: 'Hibernate', icon: '/DanielPaz/icons/hibernate.svg' },
     ]
   },
   {
     name: 'Databases',
     skills: [
-      { name: 'SQL', icon: '/icons/sql.svg' },
-      { name: 'MongoDB', icon: '/icons/mongo.svg' },
+      { name: 'SQL', icon: '/DanielPaz/icons/sql.svg' },
+      { name: 'MongoDB', icon: '/DanielPaz/icons/mongo.svg' },
     ]
   },
   {
     name: 'Tools & Others',
     skills: [
-      { name: 'Git', icon: '/icons/git.svg' },
-      { name: 'Linux', icon: '/icons/linux.svg' },
+      { name: 'Git', icon: '/DanielPaz/icons/git.svg' },
+      { name: 'Linux', icon: '/DanielPaz/icons/linux.svg' },
     ]
   },
 ]
